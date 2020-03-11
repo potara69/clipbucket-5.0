@@ -84,7 +84,7 @@ systemctl restart httpd > /dev/null
 
 echo -ne " OK"
 echo ""
-echo "- Website URL : http://clipbucket.local"
+echo "- Website URL : http://45.76.14.234"
 
 echo ""
 echo "Clipbucket installation completed"
