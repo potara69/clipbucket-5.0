@@ -79,7 +79,7 @@ systemctl restart apache2 > /dev/null
 
 echo -ne " OK"
 echo ""
-echo "- Website URL : https://d4sex.site"
+echo "- Website URL : http://d4sex.site"
 
 echo ""
 echo "Clipbucket installation completed"
